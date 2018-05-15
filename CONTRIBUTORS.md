@@ -633,3 +633,4 @@
 
 -[@bryamedic25](https://github.com/bryamedic25)
 
+-[@snuzy](https://github.com/snuzy)
